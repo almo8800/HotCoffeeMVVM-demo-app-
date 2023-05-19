@@ -122,7 +122,7 @@
                                 <action selector="close" destination="fIT-L0-WVb" id="7zn-12-EDf"/>
                             </connections>
                         </barButtonItem>
-                        <barButtonItem key="rightBarButtonItem" title="Save" id="Nq3-sL-mX3">
+                        <barButtonItem key="rightBarButtonItem" title="Сохранить" id="Nq3-sL-mX3">
                             <connections>
                                 <action selector="save" destination="fIT-L0-WVb" id="qFG-Gy-e5U"/>
                             </connections>
